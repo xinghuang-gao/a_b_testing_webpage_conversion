@@ -1,3 +1,3 @@
-## udacity-data-analyst-nanodegree
+### Udacity-data-analyst-nanodegree
 
-# Analyze A/B Test Results
+- Project 3: analyze A/B Test Results
